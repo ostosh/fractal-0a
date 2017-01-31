@@ -77,7 +77,7 @@
   "license": "MIT",
   "dependencies": {
     "home" : "git://github.com/ostosh/fractal-1a.git#commit-ish",
-    "counter" : "git://github.com/ostosh/project-1b.git#commit-ish",
+    "counter" : "git://github.com/ostosh/fractal-1b.git#commit-ish",
     "babel-core": "^6.17.0",
     "babel-loader": "^6.2.5",
     "babel-plugin-transform-runtime": "^6.15.0",
