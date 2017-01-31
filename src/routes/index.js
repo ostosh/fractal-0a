@@ -1,7 +1,7 @@
 // We only need to import the modules necessary for initial render
 import CoreLayout from '../layouts/CoreLayout'
-import Home from 'home'
-import CounterRoute from 'counter'
+import Home from 'fractal-1a'
+import CounterRoute from 'fractal-1b'
 
 /*  Note: Instead of using JSX, we recommend using react-router
     PlainRoute objects to build route definitions.   */
