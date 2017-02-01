@@ -120,7 +120,7 @@ if (!__TEST__) {
 // JavaScript / JSON
 webpackConfig.module.loaders = [{
   test    : /\.(js|jsx)$/,
-  exclude : /node_modules/,
+  exclude: /node_modules\/(?!(fractal-1a|fractal-1b)\/).*/,
   loader  : 'babel',
   query   : project.compiler_babel
 }, {
