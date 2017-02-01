@@ -7,7 +7,6 @@ import CounterRoute from 'fractal-1b'
     PlainRoute objects to build route definitions.   */
 
 export const createRoutes = (store, injectReducer) => {
-  debugger;
   return {
     path        : '/',
     component   : CoreLayout,
